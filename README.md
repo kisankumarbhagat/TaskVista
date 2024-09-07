@@ -8,6 +8,8 @@ TaskVista is a modern To-Do List application with a vibrant and user-friendly in
 - **Edit Tasks**: Modify tasks with a simple interface.
 - **Delete Tasks**: Remove tasks effortlessly.
 - **Expandable View**: Scroll through long tasks in an expanded view.
+ 
+![Screenshot (9)](https://github.com/user-attachments/assets/f1ced7f1-ba55-425a-9aa3-eeaf995bda95)
 
 ## Installation
 
